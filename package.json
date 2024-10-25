@@ -17,7 +17,7 @@
     "core-js": "^3.6.5",
     "highlight.js": "^10.3.2",
     "smartweave": "^0.3.6",
-    "vue": "^2.6.11",
+    "vue": "^3.0.0",
     "vue-animate-onscroll": "^1.0.8",
     "vue-arweave": "^2.0.2",
     "vue-backtotop": "^1.6.1",
